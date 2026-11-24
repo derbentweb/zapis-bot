@@ -1,0 +1,5 @@
+.env
+error.log
+bot/bookings.json
+__pycache__/
+*.pyc
